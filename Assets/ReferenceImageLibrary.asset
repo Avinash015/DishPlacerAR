@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5266738476291905869
+  m_GuidHigh: 1230126953679807390
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5585057689393683822
+      m_GuidHigh: 15343081739081212800
+    m_SerializedTextureGuid:
+      m_GuidLow: 4414814806513167973
+      m_GuidHigh: 2635639587128773866
+    m_Size: {x: 0.1, y: 0.14146188}
+    m_SpecifySize: 1
+    m_Name: sath
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4767439327179973294
+      m_GuidHigh: 2523756598782320797
+    m_SerializedTextureGuid:
+      m_GuidLow: 10269361224527408218
+      m_GuidHigh: 5100426268287357112
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: menucard2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5689999284549358288
+      m_GuidHigh: 5455353674387519126
+    m_SerializedTextureGuid:
+      m_GuidLow: 17808433086485404360
+      m_GuidHigh: 5594972527962648760
+    m_Size: {x: 0.1, y: 0.14146188}
+    m_SpecifySize: 1
+    m_Name: menucard3
+    m_Texture: {fileID: 0}
